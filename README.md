@@ -1,5 +1,16 @@
 # ToxCML: A Hybrid q‑RASAR Framework-Based Platform Integrating Consensus QSAR and Read-Across for Enhanced Comprehensive Multi-Endpoint Toxicity Assessment
 
+**Authors**  
+Fauzan Syarif Nursyafi¹, Muhammad Adnan Pramudito², Yunendah Nur Fuadah³, Rahmafatin Nurul Izza², Abdul Latif Fauzan⁵, and Ki Moo Lim¹˒⁴˒⁵*  
+
+¹ Computational Medicine Lab, Department of Medical IT Convergence Engineering, Kumoh National Institute of Technology, Gumi, 39177, Republic of Korea.  
+² Computational Medicine Lab, Department of IT Convergence Engineering, Kumoh National Institute of Technology, Gumi, 39177, Republic of Korea.  
+³ Telecommunication Engineering Study Program, School of Electrical Engineering, Telkom University Main Campus, Bandung, Indonesia.  
+⁴ Computational Medicine Lab, Department of Biomedical Engineering, Kumoh National Institute of Technology, Gumi, 39177, Republic of Korea.  
+⁵ Meta Heart Co., Ltd, Gumi, 39253, Republic of Korea.  
+
+\*Corresponding author: [kmlim@kumoh.ac.kr](mailto:kmlim@kumoh.ac.kr)
+
 ToxCML is a large-scale hybrid **q‑RASAR** framework-based platform that integrates consensus QSAR and consensus read-across into a weight-optimized workflow for multi-endpoint toxicity prediction. It is designed to provide chemically contextualized, applicability-domain–aware predictions that can support large-scale toxicity screening, hazard prioritization, and reduction of animal testing.
 
 ## Study overview
